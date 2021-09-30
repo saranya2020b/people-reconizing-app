@@ -1,0 +1,22 @@
+body{
+    color: rgb(131, 17, 17);
+    background: rgb(231, 235, 6);
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWIFmqMJBOQ1UQhmESig_I4fHAs1YE4TwsQNha_FtfCkVTceCnr5yuNQvHSl9sj5lMvA&usqp=CAU");
+    background-size: cover;
+    
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+}
+#result_of_objects, #result_of_accuracy{
+    color: yellow;
+}
+h3{
+    width: 800px;
+
+}
